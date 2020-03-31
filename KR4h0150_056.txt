@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 欽定四書文
-#+DATE: 2020-03-31 11:42:36.580604
+#+DATE: 2020-03-31 11:42:37.368863
 #+PROPERTY: ID KR4h0150
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 56
 <pb:KR4h0150_WYG_056-1a>¶
 　　知止而后有定　　一節　　　　張玉書(墨)¶

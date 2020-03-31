@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 欽定四書文
-#+DATE: 2020-03-31 11:42:36.194168
+#+DATE: 2020-03-31 11:42:36.970274
 #+PROPERTY: ID KR4h0150
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 14
 <pb:KR4h0150_WYG_014-1a>¶
 　　大學之道　　一節(其三)　　　　歸有光¶

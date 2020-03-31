@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 欽定四書文
-#+DATE: 2020-03-31 11:42:36.269650
+#+DATE: 2020-03-31 11:42:37.041178
 #+PROPERTY: ID KR4h0150
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 22
 <pb:KR4h0150_WYG_022-1a>¶
 　　寡人之於國也　　一章　　　　尤　瑛¶

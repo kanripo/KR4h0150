@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 欽定四書文
-#+DATE: 2020-03-31 11:42:36.426320
+#+DATE: 2020-03-31 11:42:37.208990
 #+PROPERTY: ID KR4h0150
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 42
 <pb:KR4h0150_WYG_042-1a>¶
 　　富與貴　　一章　　　　　　　楊以任¶
@@ -936,7 +936,7 @@
 也¶
 ¶
 　　此題易作感慨語故易之以深㣲髙韻逺情超然埃¶
-&KR0381;之表¶
+壒之表¶
 ¶
 ¶
 ¶

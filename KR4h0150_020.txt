@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 欽定四書文
-#+DATE: 2020-03-31 11:42:36.245574
+#+DATE: 2020-03-31 11:42:37.019571
 #+PROPERTY: ID KR4h0150
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 20
 <pb:KR4h0150_WYG_020-1a>¶
 　　修道之謂敎　　致中和　　　　陸樹聲¶

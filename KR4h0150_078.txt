@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 欽定四書文
-#+DATE: 2020-03-31 11:42:36.814704
+#+DATE: 2020-03-31 11:42:37.585177
 #+PROPERTY: ID KR4h0150
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 78
 <pb:KR4h0150_WYG_078-1a>¶
 　　天下有道　　三句　　　　　　劉子壯¶

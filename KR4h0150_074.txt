@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 欽定四書文
-#+DATE: 2020-03-31 11:42:36.770913
+#+DATE: 2020-03-31 11:42:37.547235
 #+PROPERTY: ID KR4h0150
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 74
 <pb:KR4h0150_WYG_074-1a>¶
 　　詩云經始靈臺　　於牣魚躍　　韓　菼¶

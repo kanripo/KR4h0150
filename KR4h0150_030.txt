@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 欽定四書文
-#+DATE: 2020-03-31 11:42:36.330359
+#+DATE: 2020-03-31 11:42:37.105838
 #+PROPERTY: ID KR4h0150
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 30
 <pb:KR4h0150_WYG_030-1a>¶
 　　先進於禮樂　　一章　　　　　鄧以讚(墨)¶

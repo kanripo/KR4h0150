@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 欽定四書文
-#+DATE: 2020-03-31 11:42:36.359368
+#+DATE: 2020-03-31 11:42:37.136558
 #+PROPERTY: ID KR4h0150
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 34
 <pb:KR4h0150_WYG_034-1a>¶
 　　交鄰國有道乎　　一章　　　　王士驌¶
@@ -189,7 +189,7 @@
 <pb:KR4h0150_WYG_034-10b>¶
 　　句句是左右句句是左右分上之未可用意深穩而¶
 局陣層層變換如神龍在空噓氣成雲後來竒縱之¶
-作皆爲籠&KR0449;(原評)¶
+作皆爲籠罩(原評)¶
 ¶
 ¶
 ¶
